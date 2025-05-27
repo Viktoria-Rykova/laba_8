@@ -55,3 +55,22 @@ G[<ФОРМУЛА>]:
 
 ![image](https://github.com/user-attachments/assets/960f5113-5109-403b-a756-43b5cec3bb32)
 
+
+# Дополнительно задание
+Диаграмма сканера 
+
+![image](https://github.com/user-attachments/assets/161e03d2-f480-46ac-bed6-bfa37f7498a7)
+
+## Тестовые примеры
+<p>Пример 1</p>
+
+![image](https://github.com/user-attachments/assets/9ca08048-faf6-445a-8591-cf82fae58ac5)
+
+<p>Пример 2</p>
+
+![image](https://github.com/user-attachments/assets/cdcc788f-bf3c-4338-acf4-6b87b738382e)
+
+<p>Пример 3</p>
+
+![image](https://github.com/user-attachments/assets/f7160400-cc4a-40ce-b2da-0eb8472b6937)
+
