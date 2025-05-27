@@ -43,10 +43,15 @@ G[<ФОРМУЛА>]:
 <p> ├── <ЗНАК> → '*'</p>
 <p> └── <ФОРМУЛА> → 3</p>
  ## Тестовые примеры
- #### Пример 1
+<p>Пример 1</p>
+   
  ![image](https://github.com/user-attachments/assets/6cf237ba-91c6-4ae2-8586-553f1684268a)
-  #### Пример 2
+ 
+<p>Пример 2</p>
+
  ![image](https://github.com/user-attachments/assets/e98d718e-b1fb-40ed-9eaf-a82a21f3b484)
-  #### Пример 3
+ 
+<p>Пример 3</p>
+
 ![image](https://github.com/user-attachments/assets/960f5113-5109-403b-a756-43b5cec3bb32)
 
